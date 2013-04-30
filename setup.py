@@ -16,7 +16,7 @@ long_description=(
 name='lovely.buildouthttp'
 setup(
     name = name,
-    version = "0.4.7-serverdensity1",
+    version = "0.4.7-serverdensity2",
     author = "Lovely Systems GmbH",
     author_email = "office@lovelysystems.com",
     description = "Buildout extension to add http authentication "
